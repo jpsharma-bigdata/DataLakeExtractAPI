@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.impetus.cloud</groupId>
-    <artifactId>data-lake-scopeapi</artifactId>
+    <artifactId>data-lake-extract-api</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -13,7 +13,7 @@
         <version>1.0.1.RELEASE</version>
     </parent>
 
-    <name>Data Lake Scope APP</name>
+    <name>Data Lake Extract APP</name>
 
     <properties>
         <java.version>1.8</java.version>
